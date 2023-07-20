@@ -1,2 +1,2 @@
 # snakePython
-j
+Jogo da cobrinha com python e pygame
